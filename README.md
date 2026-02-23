@@ -11,7 +11,7 @@ I’m a **Machine Learning Engineer** and **MSc (Computer Science, Research)** g
 **ML / Data:** TensorFlow, PyTorch, Keras, Scikit-learn, Pandas, NumPy  
 **Programming:** Python, MATLAB, C++  
 **Cybersecurity:** Wireshark, STRIDE, Risk Management Plans  
-**Tools:** Jupyter, Google Colab, Confluence, JIRA, SharePoint, Grafana, Node-RED  
+**Tools:** Jupyter, Google Colab, Confluence, JIRA, SharePoint, Node-RED  
 **Automotive / VANET:** OMNeT++, BSMs, C-V2X, IEEE 802.11p, adversarial attacks
 
 ## 💼 Experience
